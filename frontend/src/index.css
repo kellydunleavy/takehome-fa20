@@ -12,3 +12,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+base: {
+    fontSize: '18px';
+    border: '1px solid red' // it is not work.
+  } 
